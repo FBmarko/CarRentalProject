@@ -1,0 +1,5 @@
+M.id:0001
+Arabaid:0001
+D.tarihi:15.01.2022
+G.gun:5
+Ceza:2500

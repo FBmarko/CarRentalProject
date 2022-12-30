@@ -1,0 +1,34 @@
+Araba id:0001
+Marka:BMW
+Model:i8
+Mevcutmu:Evet
+
+Araba id:0002
+Marka:Toyota
+Model:Supra
+Mevcutmu:Evet
+
+Araba id:0003
+Marka:Pagani
+Model:Hueyra
+Mevcutmu:Evet
+
+Araba id:0004
+Marka:Nissan
+Model:GTR
+Mevcutmu:Evet
+
+Araba id:0005
+Marka:BMW
+Model:i5
+Mevcutmu:Evet
+
+Araba id:0006
+Marka:BMW
+Model:i7
+Mevcutmu:Evet
+
+Araba id:0007
+Marka:Audi
+Model:A7
+Mevcutmu:Evet

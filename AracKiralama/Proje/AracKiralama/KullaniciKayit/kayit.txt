@@ -1,0 +1,13 @@
+K. Adi:admin
+Sifre:12345678
+Ad Soyad: 
+Cinsiyet: 
+D.Tarihi: 
+Adres: 
+
+K. Adi:Emre
+Sifre:yenisifre1997
+Ad Soyad:Emre Demirci
+Cinsiyet:Erkek
+D.Tarihi:20 Mart 1997
+Adres:Istanbul beykoz
